@@ -11,6 +11,7 @@ parts:
       - file: develop/unix
       - file: develop/python
       - file: develop/jupyter_book
+      - file: develop/jupyter_book_1
       - file: develop/editor
   - caption: Datentypen und Formatierung
     chapters:
